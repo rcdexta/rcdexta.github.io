@@ -1,0 +1,8 @@
++++
+title = "Reusing Higher Order Components in React applications with Bit"
+path = "https://blog.bitsrc.io/reusing-higher-order-components-in-react-applications-with-bit-947297af5130"
+[taxonomies]
+tags = [ "lorem", "ipsum", "beginner" ]
++++
+
+How to leverage React HOC with Bit to build more maintainable apps, faster!
