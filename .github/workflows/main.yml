@@ -26,4 +26,4 @@ jobs:
         env:
           PAGES_BRANCH: gh-pages
           BUILD_DIR: .
-          TOKEN: fb09554c23389a457e9e020c2cb326aa78cd458d
+          TOKEN: ${{ secrets.TOKEN }}
