@@ -1,8 +1,8 @@
 +++
-title = "Reusing Higher Order Components in React applications with Bit"
-path = "https://blog.bitsrc.io/reusing-higher-order-components-in-react-applications-with-bit-947297af5130"
+title = "Build an Autocomplete widget with React and Elastic Search"
+path = "https://blog.bitsrc.io/how-to-build-an-autocomplete-widget-with-react-and-elastic-search-dd4f846f784"
 [taxonomies]
 tags = [ "lorem", "ipsum", "beginner" ]
 +++
 
-How to leverage React HOC with Bit to build more maintainable apps, faster!
+Building an auto-suggest search widget that uses NGram analyser in Elastic Search!

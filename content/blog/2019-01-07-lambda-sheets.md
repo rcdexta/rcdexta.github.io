@@ -1,8 +1,8 @@
 +++
-title = "Managing Derived State from Props in React"
-path = "https://blog.bitsrc.io/managing-derived-state-from-props-in-react-f26b5b15069"
+title = "Serverless Function to Sync Data from a Database to Google Spreadsheet"
+path = "https://blog.bitsrc.io/serverless-function-to-sync-data-from-a-database-to-google-spreadsheet-c71af04a1a34"
 [taxonomies]
 tags = [ "lorem", "ipsum", "beginner" ]
 +++
 
-Patterns and Anti-patterns for managing states based on Props
+Build a Lambda function that pulls data from Postgres DB to Google Spreadsheet

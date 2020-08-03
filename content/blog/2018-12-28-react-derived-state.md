@@ -1,8 +1,9 @@
 +++
-title = "Testing React Applications with react-testing-library"
-path = "https://blog.bitsrc.io/testing-react-applications-with-react-testing-library-da66aaef740a"
+title = "Managing Derived State from Props in React"
+path = "https://blog.bitsrc.io/managing-derived-state-from-props-in-react-f26b5b15069"
 [taxonomies]
 tags = [ "lorem", "ipsum", "beginner" ]
 +++
 
-A hands-on guide with live examples of testing a Todo application
+Patterns and Anti-patterns for managing states based on Props
+
