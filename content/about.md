@@ -2,45 +2,21 @@
 template = "page.html"
 +++
 
-## Hello, this is a simple dev blog.
 
-This is a simple dev blog that I made [for my website](https://bennetthardwick.com).
-It's quite easy to install, just go to the [project page](https://github.com/bennetthardwick/simple-dev-blog-zola-starter) and follow the prompts.
+## Who am I?
 
-This template does some fancy stuff like [pre-rendering](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content) blog posts and nav links,
-pre-fetching your profile image and adding a bunch of common meta tags.
+I am Ramachandran (RC) and I am a Full Stack Maker at [Pro.com](https://pro.com) where we use technology to streamline residential construction process.
 
-### How to get started
+I also contribute and maintain several open source software that you should find links to on the Projects page.
 
-To create a new Zola site, first download the CLI and install it on your system.
-You can find installation instructions [on the Zola website](https://www.getzola.org/documentation/getting-started/installation/).
+My current interests include OSS, Ruby, React, TypeScript, Rust, Performance and Design.
 
-1. After you've installed the Zola CLI, run the following command to create a new site:
+## What do I do?
 
-   ```sh
-   zola init my_amazing_site
-   cd my_amazing_site
-   ```
+I have been fiddling with computers since I got my first Intel x386/MS-DOS 6.22/Win 3.1 PC when I was 10 years old. My first programming language was Pascal and the first program that I was proud of writing was a Sudoku solver!
 
-2. After you've created the site, install the "Simple Dev Blog" theme like so:
+Nothing gives me the kicks like building a concept from an idea blip to a fully functional system! My current interests include Open Source, Ruby, React, TypeScript, DevOps, Performance and Design.
 
-   ```sh
-   git clone --depth=1 \
-     https://github.com/bennetthardwick/simple-dev-blog-zola-starter \
-     themes/simple-dev-blog
-   ```
+You can find me on [Github](https://github.com/rcdexta), [Twitter](https://twitter.com/rcdexta), [StackOverflow](https://stackoverflow.com/users/1385252/dexter), [LinkedIn](https://www.linkedin.com/in/ramachandran-r-00177715/) and [Medium](https://medium.com/@rcdexta)
 
-3. Now in your `config.toml` file, choose the theme by setting `theme = "simple-dev-blog"`.
-
-4. That's it! Now build your site by running the following command, and navigate to `127.0.0.1:111`:
-
-   ```sh
-   zola serve
-   ```
-
-You should now have a speedy simple dev blog up and running, have fun!
-
-### Deployment
-
-[Netlify](https://www.netlify.com/) is a great way to deploy your website for free to a custom domain and it's what I use [personally](https://bennetthardwick.com).
-To deploy to Netlify, refer to Zola's [Netlify deployment instructions](https://www.getzola.org/documentation/deployment/netlify/).
+Thanks for visiting my site. Cheers!

@@ -12,8 +12,8 @@ highlight_theme = "demain"
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-title = "rcdexta"
-description = "A simple dev blog theme with no javascript, prerendered linked pages and SEO tags."
+title = "@rcdexta"
+description = "rcdexta's homepage"
 
 generate_feed = true
 
@@ -38,7 +38,7 @@ profile_large = "profile.png"
 accent = "#2f76d0"
 accent_light = "#82ade3"
 
-author = "John Doe"
+author = "RC"
 
 footer_about = """
 A simple dev-blog theme created by Bennett. You can follow him on [Github](https://github.com/bennetthardwick) (if you like).
