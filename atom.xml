@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>@rcdexta</title>
+	<subtitle>rcdexta&#x27;s homepage</subtitle>
+	<link href="https://rcdexta.com/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://rcdexta.com"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-05-01T00:00:00+00:00</updated>
+	<id>https://rcdexta.com/atom.xml</id>
+	<entry xml:lang="en">
+		<title>React Trello</title>
+		<published>2020-05-01T00:00:00+00:00</published>
+		<updated>2020-05-01T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://github.com/rcdexta/react-trello/" type="text/html"/>
+		<id>https://rcdexta.com/https://github.com/rcdexta/react-trello/</id>
+		<content type="html">&lt;p&gt;Pluggable components to add a trello-like kanban board to your application&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Processing high volume of unique messages exactly once while preserving order</title>
+		<published>2020-04-17T00:00:00+00:00</published>
+		<updated>2020-04-17T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://medium.com/@rcdexta/processing-high-volume-of-unique-messages-exactly-once-while-preserving-order-in-a-queue-d8d6184ded01/" type="text/html"/>
+		<id>https://rcdexta.com/https://medium.com/@rcdexta/processing-high-volume-of-unique-messages-exactly-once-while-preserving-order-in-a-queue-d8d6184ded01/</id>
+		<content type="html">&lt;p&gt;Message grouping and deduplication using SQS and Ruby&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Ezuthu</title>
+		<published>2020-03-02T00:00:00+00:00</published>
+		<updated>2020-03-02T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://ezuthu.herokuapp.com/" type="text/html"/>
+		<id>https://rcdexta.com/https://ezuthu.herokuapp.com/</id>
+		<content type="html">&lt;p&gt;A Deep Learning Model for recognizing Tamil characters&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>React Event Timeline</title>
+		<published>2020-02-01T00:00:00+00:00</published>
+		<updated>2020-02-01T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://github.com/rcdexta/react-event-timeline/" type="text/html"/>
+		<id>https://rcdexta.com/https://github.com/rcdexta/react-event-timeline/</id>
+		<content type="html">&lt;p&gt;A responsive event timeline in React.js&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Hash 19</title>
+		<published>2020-01-01T00:00:00+00:00</published>
+		<updated>2020-01-01T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://github.com/rcdexta/hash19/" type="text/html"/>
+		<id>https://rcdexta.com/https://github.com/rcdexta/hash19/</id>
+		<content type="html">&lt;p&gt;Hash helpers to map complex JSON to ruby objects.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>7 New and Exciting TypeScript Features</title>
+		<published>2019-12-25T00:00:00+00:00</published>
+		<updated>2019-12-25T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://blog.bitsrc.io/7-new-and-exciting-typescript-features-48b760ae0b73/" type="text/html"/>
+		<id>https://rcdexta.com/https://blog.bitsrc.io/7-new-and-exciting-typescript-features-48b760ae0b73/</id>
+		<content type="html">&lt;p&gt;A summary of features available in TypeScript v3.6+ you should definitely pay attention to.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>JS Warrior</title>
+		<published>2019-12-01T00:00:00+00:00</published>
+		<updated>2019-12-01T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://rcdexta.github.io/js-warrior/" type="text/html"/>
+		<id>https://rcdexta.com/https://rcdexta.github.io/js-warrior/</id>
+		<content type="html">&lt;p&gt;Play JS warrior to learn ES6&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Chappie</title>
+		<published>2019-11-01T00:00:00+00:00</published>
+		<updated>2019-11-01T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://github.com/rcdexta/chappie/" type="text/html"/>
+		<id>https://rcdexta.com/https://github.com/rcdexta/chappie/</id>
+		<content type="html">&lt;p&gt;Chappie is a slackbot for remote workplaces&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>AramSeyaVirumbu</title>
+		<published>2019-08-01T00:00:00+00:00</published>
+		<updated>2019-08-01T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/http://www.aramseyavirumbu.com/" type="text/html"/>
+		<id>https://rcdexta.com/http://www.aramseyavirumbu.com/</id>
+		<content type="html">&lt;p&gt;First of a kind tamil wiki for aathichudi&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Pure JavaScript Functions as a Replacement for Lodash</title>
+		<published>2019-04-04T00:00:00+00:00</published>
+		<updated>2019-04-04T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://blog.bitsrc.io/you-dont-need-lodash-or-how-i-started-loving-javascript-functions-3f45791fa6cd/" type="text/html"/>
+		<id>https://rcdexta.com/https://blog.bitsrc.io/you-dont-need-lodash-or-how-i-started-loving-javascript-functions-3f45791fa6cd/</id>
+		<content type="html">&lt;p&gt;A brief overview of pure replacement functions over Lodash&#x2F;Underscore.js&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Pure HTML Widgets for your Web Application</title>
+		<published>2019-02-27T00:00:00+00:00</published>
+		<updated>2019-02-27T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://blog.bitsrc.io/pure-html-widgets-for-your-web-application-c9015563af7a/" type="text/html"/>
+		<id>https://rcdexta.com/https://blog.bitsrc.io/pure-html-widgets-for-your-web-application-c9015563af7a/</id>
+		<content type="html">&lt;p&gt;Look ma, no JS! Less-known HTML elements that you should start using…&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Serverless Function to Sync Data from a Database to Google Spreadsheet</title>
+		<published>2019-01-07T00:00:00+00:00</published>
+		<updated>2019-01-07T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://blog.bitsrc.io/serverless-function-to-sync-data-from-a-database-to-google-spreadsheet-c71af04a1a34/" type="text/html"/>
+		<id>https://rcdexta.com/https://blog.bitsrc.io/serverless-function-to-sync-data-from-a-database-to-google-spreadsheet-c71af04a1a34/</id>
+		<content type="html">&lt;p&gt;Build a Lambda function that pulls data from Postgres DB to Google Spreadsheet&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Managing Derived State from Props in React</title>
+		<published>2018-12-28T00:00:00+00:00</published>
+		<updated>2018-12-28T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://blog.bitsrc.io/managing-derived-state-from-props-in-react-f26b5b15069/" type="text/html"/>
+		<id>https://rcdexta.com/https://blog.bitsrc.io/managing-derived-state-from-props-in-react-f26b5b15069/</id>
+		<content type="html">&lt;p&gt;Patterns and Anti-patterns for managing states based on Props&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Testing React Applications with react-testing-library</title>
+		<published>2018-10-10T00:00:00+00:00</published>
+		<updated>2018-10-10T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://blog.bitsrc.io/testing-react-applications-with-react-testing-library-da66aaef740a/" type="text/html"/>
+		<id>https://rcdexta.com/https://blog.bitsrc.io/testing-react-applications-with-react-testing-library-da66aaef740a/</id>
+		<content type="html">&lt;p&gt;A hands-on guide with live examples of testing a Todo application&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Build an Autocomplete widget with React and Elastic Search</title>
+		<published>2018-09-21T00:00:00+00:00</published>
+		<updated>2018-09-21T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://blog.bitsrc.io/how-to-build-an-autocomplete-widget-with-react-and-elastic-search-dd4f846f784/" type="text/html"/>
+		<id>https://rcdexta.com/https://blog.bitsrc.io/how-to-build-an-autocomplete-widget-with-react-and-elastic-search-dd4f846f784/</id>
+		<content type="html">&lt;p&gt;Building an auto-suggest search widget that uses NGram analyser in Elastic Search!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Reusing Higher Order Components in React applications with Bit</title>
+		<published>2018-08-20T00:00:00+00:00</published>
+		<updated>2018-08-20T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://blog.bitsrc.io/reusing-higher-order-components-in-react-applications-with-bit-947297af5130/" type="text/html"/>
+		<id>https://rcdexta.com/https://blog.bitsrc.io/reusing-higher-order-components-in-react-applications-with-bit-947297af5130/</id>
+		<content type="html">&lt;p&gt;How to leverage React HOC with Bit to build more maintainable apps, faster!&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Setting up blue-green deployment for your application in AWS ECS using Code Pipeline</title>
+		<published>2018-07-23T00:00:00+00:00</published>
+		<updated>2018-07-23T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://blog.bitsrc.io/setting-up-blue-green-deployment-for-your-application-in-aws-ecs-using-code-pipeline-90a5a5551d93/" type="text/html"/>
+		<id>https://rcdexta.com/https://blog.bitsrc.io/setting-up-blue-green-deployment-for-your-application-in-aws-ecs-using-code-pipeline-90a5a5551d93/</id>
+		<content type="html">&lt;p&gt;Adding a continuous integration workflow to a live application using AWS Code Pipeline with zero downtime.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>HTMLCollection, NodeList and array of objects</title>
+		<published>2018-06-05T00:00:00+00:00</published>
+		<updated>2018-06-05T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://hackernoon.com/htmlcollection-nodelist-and-array-of-objects-da42737181f9/" type="text/html"/>
+		<id>https://rcdexta.com/https://hackernoon.com/htmlcollection-nodelist-and-array-of-objects-da42737181f9/</id>
+		<content type="html">&lt;p&gt;An overview of the difference between various DOM Collection objects.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Cypress: Write Automated Tests to Validate Web Applications</title>
+		<published>2018-01-26T00:00:00+00:00</published>
+		<updated>2018-01-26T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://auth0.com/blog/cypress-write-automated-tests-to-validate-web-applications/" type="text/html"/>
+		<id>https://rcdexta.com/https://auth0.com/blog/cypress-write-automated-tests-to-validate-web-applications/</id>
+		<content type="html">&lt;p&gt;Learn how to use Cypress to write automated tests that run on browsers to validate web applications.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Optimising your application bundle size with webpack</title>
+		<published>2018-01-15T00:00:00+00:00</published>
+		<updated>2018-01-15T00:00:00+00:00</updated>
+		<link href="https://rcdexta.com/https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579/" type="text/html"/>
+		<id>https://rcdexta.com/https://hackernoon.com/optimising-your-application-bundle-size-with-webpack-e85b00bab579/</id>
+		<content type="html">&lt;p&gt;An in-depth overview of the webpack constructs that will help you reduce the size of your application payload.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
